@@ -53,5 +53,3 @@ Screenshots of the application are available in the screenshots folder.
 ## Developed By
 
 Ashutosh Bhowmick
-
-BCA Student
